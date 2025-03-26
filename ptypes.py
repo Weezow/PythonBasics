@@ -1,7 +1,7 @@
 name: str = "it's"
 number: int | float = 1.0
 lists: list = []
-dictioary: dict = {}
+dictionary: dict = {}
 
 print(name.startswith("a"))
 
