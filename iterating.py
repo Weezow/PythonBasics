@@ -6,17 +6,17 @@
 #     print(key)
 #     print(value)
 
-# ld = [
-#         {"product":"apples","quantity":10},
-#         {"product":"bananas","quantity":12},
-#         {"product":"peaches","quantity":8},
-#     ]
+ld = [
+        {"product":"apples","quantity":10},
+        {"product":"bananas","quantity":12},
+        {"product":"peaches","quantity":8},
+    ]
 
 # In list associate the value to variable for each item in that list
 
-# for poop in ld:
-#     # print(item)
-#     print(poop["product"])
+for poop in ld:
+    # print(item)
+    print(poop["product"])
 
 # def f(param):
 #     return 
