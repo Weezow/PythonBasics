@@ -25,4 +25,4 @@ print()
 print(f"Your total is: ${total}")
 
 with open("./Listing.txt", "a+") as file:
-    file.write(f"{cart}"
+    file.write(f"{cart}")
